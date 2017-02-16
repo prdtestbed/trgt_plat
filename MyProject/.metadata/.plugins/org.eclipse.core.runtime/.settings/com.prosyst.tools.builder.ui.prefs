@@ -1,0 +1,4 @@
+OUTPUT_IMAGE=workspace\:/raj/raj-pm.img
+eclipse.preferences.version=1
+target.image.output.format=directory
+target.image.output.location=/predix/Desktop/
